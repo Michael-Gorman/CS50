@@ -11,7 +11,7 @@ Please do not copy the code and just for submition, it is pointless as you will 
 ## Table Of Contents
   * Problem Set 1: C - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
     * [Hello](https://github.com/Michael-Gorman/CS50/blob/main/hello.c)
-    * [Cash]
+    * [Cash](https://github.com/Michael-Gorman/CS50/blob/main/cash.c)
     * Mario
   * Problem Set 2: Crypto - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
     * Readability
