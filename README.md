@@ -12,13 +12,13 @@ Please do not copy the code and just for submition, it is pointless as you will 
   * Problem Set 1: C - [Assignments 1](https://cs50.harvard.edu/x/2020/psets/1/)
     * [Hello](https://github.com/Michael-Gorman/CS50/blob/main/hello.c)
     * [Cash](https://github.com/Michael-Gorman/CS50/blob/main/cash.c)
-    * Mario
+    * [Mario](https://github.com/Michael-Gorman/CS50/blob/main/mario.c)
   * Problem Set 2: Crypto - [Assignments 2](https://cs50.harvard.edu/x/2020/psets/2/)
-    * Readability
-    * Caesar
+    * [Readability](https://github.com/Michael-Gorman/CS50/blob/main/readability.c)
+    * [Caesar](https://github.com/Michael-Gorman/CS50/blob/main/caesar.c)
   * Problem Set 3: Elections - [Assignments 3](https://cs50.harvard.edu/x/2020/psets/3/)
-    * Plurality
-    * Runoff
+    * [Plurality](https://github.com/Michael-Gorman/CS50/blob/main/plurality.c)
+    * [Runoff](https://github.com/Michael-Gorman/CS50/blob/main/runoff.c)
   * Problem Set 4: Forensics - [Assignments 4](https://cs50.harvard.edu/x/2020/psets/4/)
     * Filter
     * Recover
