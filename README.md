@@ -21,6 +21,7 @@ Please do not copy the code and just for submition, it is pointless as you will 
     * [Runoff](https://github.com/Michael-Gorman/CS50/blob/main/runoff.c)
   * Problem Set 4: Forensics - [Assignments 4](https://cs50.harvard.edu/x/2020/psets/4/)
     * Filter
+      * [Helpers](https://github.com/Michael-Gorman/CS50/blob/main/helper.c)
     * Recover
   * Problem Set 5: Data Structs - [Assignments 5](https://cs50.harvard.edu/x/2020/psets/5/)
     * Speller
