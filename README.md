@@ -28,7 +28,7 @@ Please do not copy the code and just for submition, it is pointless as you will 
   * Problem Set 6: Python - [Assignments 6](https://cs50.harvard.edu/x/2020/psets/6/)
     * [Hello](https://github.com/Michael-Gorman/CS50/blob/main/hello.py)
     * [Mario](https://github.com/Michael-Gorman/CS50/blob/main/mario.py)
-    * Cash
+    * [Cash](https://github.com/Michael-Gorman/CS50/blob/main/cash.py)
     * Readability
     * DNA
   * Problem Set 7: SQL - [Assignments 7](https://cs50.harvard.edu/x/2020/psets/7/)
