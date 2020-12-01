@@ -29,7 +29,7 @@ Please do not copy the code and just for submition, it is pointless as you will 
     * [Hello](https://github.com/Michael-Gorman/CS50/blob/main/hello.py)
     * [Mario](https://github.com/Michael-Gorman/CS50/blob/main/mario.py)
     * [Cash](https://github.com/Michael-Gorman/CS50/blob/main/cash.py)
-    * Readability
+    * [Readability](https://github.com/Michael-Gorman/CS50/blob/main/readability.py)
     * [DNA](https://github.com/Michael-Gorman/CS50/blob/main/dna.py)
   * Problem Set 7: SQL - [Assignments 7](https://cs50.harvard.edu/x/2020/psets/7/)
     * Movies
