@@ -24,7 +24,7 @@ Please do not copy the code and just for submition, it is pointless as you will 
       * [Helpers](https://github.com/Michael-Gorman/CS50/blob/main/helper.c)
     * [Recover](https://github.com/Michael-Gorman/CS50/blob/main/recover.c)
   * Problem Set 5: Data Structs - [Assignments 5](https://cs50.harvard.edu/x/2020/psets/5/)
-    * Speller
+    * [Speller](https://github.com/Michael-Gorman/CS50/blob/main/speller.c)
   * Problem Set 6: Python - [Assignments 6](https://cs50.harvard.edu/x/2020/psets/6/)
     * Hello
     * Mario
